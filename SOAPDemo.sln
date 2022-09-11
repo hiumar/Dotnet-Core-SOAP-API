@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSOAP.API", "DemoSOAP.API.csproj", "{C038A12A-BE73-411B-A032-E8165F79437F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPClientConsoleApp", "..\SOAPClientConsoleApp\SOAPClientConsoleApp.csproj", "{9038E2C5-DC9D-426F-9F1E-582D030562F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C038A12A-BE73-411B-A032-E8165F79437F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C038A12A-BE73-411B-A032-E8165F79437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C038A12A-BE73-411B-A032-E8165F79437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C038A12A-BE73-411B-A032-E8165F79437F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9038E2C5-DC9D-426F-9F1E-582D030562F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9038E2C5-DC9D-426F-9F1E-582D030562F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9038E2C5-DC9D-426F-9F1E-582D030562F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9038E2C5-DC9D-426F-9F1E-582D030562F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4FD0951-319E-4FC3-A2B4-C604AA87EA46}
+	EndGlobalSection
+EndGlobal
